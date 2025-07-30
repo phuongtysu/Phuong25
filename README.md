@@ -63,7 +63,7 @@
     </table>
 
     <div class="cta">
-      <a class="btn" https://www.facebook.com/share/15jRMC1g1j/?mibextid=wwXIfr>💬 TƯ VẤN MIỄN PHÍ – ĐẶT MUA NGAY</a>
+      <a class="btn" href="https://www.facebook.com/share/15jRMC1g1j/?mibextid=wwXIfr>💬 TƯ VẤN MIỄN PHÍ – ĐẶT MUA NGAY</a>
     </div>
 
     <p style="text-align: center; color: #999; font-size: 0.9em;">
